@@ -6,7 +6,7 @@ The idea of this project is that an ESP8266-01s sleeps until a button is pressed
 
 Keep in mind, this is all prototyping.
 
-![ESPButton Schematic](ESPButton-schematic.png "ESPButon Schematic")
+![ESPButton Schematic](ESPButton-schematic.PNG "ESPButon Schematic")
 
 # Repo content
 This repository contains the source code, writting in Visual Studio Code with the Platformio extension. 
