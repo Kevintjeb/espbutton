@@ -8,6 +8,13 @@ Keep in mind, this is all prototyping.
 
 ![ESPButton Schematic](ESPButton-schematic.PNG "ESPButon Schematic")
 
+The circuit contains a Lipo battery charging circuit, as well as a NPN transistor to make sure the ESP can't be reset while it is operating.
+GPIO16 is high when the ESP is in deepSleep, RESET needs to be connected to GND to wake up.
+
+![PCB-Front](PCB-front.PNG "ESPButon pcb")
+![PCP-Back](PCB-back.PNG "ESPButon pcb")
+
+
 # Repo content
 This repository contains the source code, written in Visual Studio Code with the Platformio extension. 
 
