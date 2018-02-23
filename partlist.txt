@@ -1,0 +1,25 @@
+Partlist
+
+Exported from espButton.brd at 31-01-18 11:31
+
+EAGLE Version 8.6.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part        Value             Package                Library             Position (mil)        Orientation
+
+C1          10µF              0805-NO                microbuilder        (750 1700)            MR270
+C2          10µF              0805-NO                microbuilder        (650 1400)            MR90
+CN2         JSTPH             JSTPH2                 microbuilder        (200 1950)            MR270
+GPIO16-HOLE                   1X01-CLEANBIG          adafruit            (150 2850)            R0
+LED1        RED               CHIPLED_0805_NOOUTLINE microbuilder        (650 1700)            MR180
+LED2        GREEN             CHIPLED_0805_NOOUTLINE microbuilder        (650 1550)            MR180
+R1          330k              0204/7                 eagle-ltspice       (450 2750)            MR0
+R2          470               0805-NO                microbuilder        (500 1700)            MR0
+R3          470               0805-NO                microbuilder        (550 1550)            MR270
+R4          10K\              0805-NO                microbuilder        (450 1550)            MR270
+S1                            B3F-10XX               DC_LOAD_AU          (450 2400)            MR270
+T1                            TO92-EBC               transistor-neu-to92 (750 2750)            MR90
+U$1         ESP01             ESP01                  esp8266modules      (550 2750)            R180
+U1          MCP73831T-2ACI/OT SOT23-5                microbuilder        (450 1400)            MR270
+X1                            4UCONN_20329           microbuilder        (250 1550)            MR90
