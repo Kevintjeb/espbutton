@@ -9,7 +9,7 @@ Keep in mind, this is all prototyping.
 ![ESPButton Schematic](ESPButton-schematic.PNG "ESPButon Schematic")
 
 # Repo content
-This repository contains the source code, writting in Visual Studio Code with the Platformio extension. 
+This repository contains the source code, written in Visual Studio Code with the Platformio extension. 
 
 The PCB files are also included. As well as a initial 3D printed case design.
 
