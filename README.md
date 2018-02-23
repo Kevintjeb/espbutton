@@ -11,8 +11,8 @@ Keep in mind, this is all prototyping.
 The circuit contains a Lipo battery charging circuit, as well as a NPN transistor to make sure the ESP can't be reset while it is operating.
 GPIO16 is high when the ESP is in deepSleep, RESET needs to be connected to GND to wake up.
 
-![PCB-Front](PCB-front.PNG "ESPButon pcb")
-![PCP-Back](PCB-back.PNG "ESPButon pcb")
+![PCB-Front](PCB-front.png "ESPButon pcb")
+![PCP-Back](PCB-back.png "ESPButon pcb")
 
 
 # Repo content
